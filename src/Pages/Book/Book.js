@@ -23,7 +23,7 @@ function Book() {
           />
         </style.Inform>
         <style.Input>
-          <img src={process.env.PUBLIC_URL + "Images/Picture.svg"} />
+          <img src={process.env.PUBLIC_URL + "Images/plusPhoto.svg"} />
           <style.Textarea>
             <style.TitleInput
               type="textarea"

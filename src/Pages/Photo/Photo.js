@@ -24,7 +24,7 @@ function Photo() {
           </style.Weather>
         </style.Inform>
         <style.Input>
-          <img src={process.env.PUBLIC_URL + "Images/Picture.svg"} />
+          <img src={process.env.PUBLIC_URL + "Images/plusPhoto.svg"} />
           <style.Textarea type="textarea" placeholder="내용을 입력하세요." />
         </style.Input>
       </style.Wrap>
